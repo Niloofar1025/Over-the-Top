@@ -1,2 +1,3 @@
 # Over-the-Top
-Most popuplar movies from IMDB charts, Most popular books published in 2020, Top 100 songs, New TV series
+The goal of this project is to develop an interactive program which lets its users select from several ranked lists of competitors to see who is the current runner-up in each list, as well as seeing the other competitors in each list. The lists are extracted from regularly-updated online web documents, so the user can be confident that the data is current. If desired, the user must also be able to inspect the original web documents from which the data was extracted.
+There exists four distinct lists (Most popuplar movies from IMDB charts, Most popular books published in 2020, Top 100 songs, New TV series), three of which are derived from online sources which are updated frequently. The fourth list extracted from a previously-downloaded web document which never changes.
